@@ -50,13 +50,8 @@ function Sort() {
             <p>{afficherVille}</p>
             <p>{numbers}</p>
             <p>{ordre}</p>
-            <p>{myNumbers}</p>
-  
-           
+            <p>{myNumbers}</p>     
 <hr />
-
-           
-            
         </div>
     )
 }
